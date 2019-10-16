@@ -40,7 +40,7 @@ function xTextRefresh() {
 }
 xTextRefresh();
 
-//  use xText to append three text SVG files, with y coordinates specified to space out the values.
+
 // 1. Poverty
 xText
   .append("text")
@@ -83,7 +83,7 @@ function yTextRefresh() {
 }
 yTextRefresh();
 
-// Now we append the text.
+
 // 1. Obesity
 yText
   .append("text")
